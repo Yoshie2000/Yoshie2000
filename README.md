@@ -1,5 +1,4 @@
-### Hey there, welcome on my GitHub page 👋
-<br />
+# Hey there, welcome on my GitHub page 👋
 
 ## A few things about me:
 - 👨‍🎓 I'm a student and hobby developer from Germany
