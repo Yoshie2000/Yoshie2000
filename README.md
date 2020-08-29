@@ -78,5 +78,28 @@
 <br />
 <br />
 
+<!--START_SECTION:activity-->
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <img align="left" alt="Battleship" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Battleship">
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
