@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 # Hey there, welcome on my GitHub page 👋
 
 ## A few things about me:
@@ -63,16 +61,26 @@
 <br />
 
 <details>
-    <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
-    <img align="left" alt="My Github Stats" src="https://github-readme-stats.yoshie2000.vercel.app/api?username=Yoshie2000&show_icons=true" />
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.yoshie2000.vercel.app/api?username=Yoshie2000&show_icons=true" />
 
-</details>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 
-<details>
-    <summary>:zap: Most Used Languages</summary>
+  <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true">
 
-    <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true">
+  <br />
+  <br />
+  <br />
+  <br />
 
 </details>
 
