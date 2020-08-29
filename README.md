@@ -54,7 +54,7 @@
 <br />
 <br />
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yoshie2000&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://https://github-readme-stats.yoshie2000.vercel.app/api?username=Yoshie2000&show_icons=true&hide_border=true" />
 
 <br />
 <br />
@@ -66,4 +66,4 @@
 <br />
 <br />
 
-<img align="left" alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true&hide_border=true">
+<img align="left" alt="My Most Used Languages" src="https://https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true&hide_border=true">
