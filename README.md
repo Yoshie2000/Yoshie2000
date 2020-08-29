@@ -1,29 +1,13 @@
 # Hey there, welcome on my GitHub page 👋
 
 ## A few things about me:
+- 👨‍🎓 I'm a student and hobby developer from Germany
+- 🏆 I founded my own startup with a few friends
+- 💻 I'm usually not very active here because I'm busy coding for my startup
+- 🎶 I love playing the drums
 
-<table style="width: 100%; border: none;">
+<img alt="My Spotify" src="https://novatorem.yoshie2000.vercel.app/api/spotify"/>
 
-  <tr>
-
-  <td style="max-width: 400px; border: none;">
-  <ul>
-  <li>👨‍🎓 I'm a student and hobby developer from Germany</li>
-  <li>🏆 I founded my own startup with a few friends</li>
-  <li>💻 I'm usually not very active here because I'm busy coding for my startup</li>
-  <li>🎶 I love playing the drums</li>
-  </ul>
-  </td>
-
-  <td style="min-width: 480px; position: relative; border: none;">
-    
-  <img alt="My Spotify" src="https://novatorem.yoshie2000.vercel.app/api/spotify" style="position: absolute; top: -35px; left: 0;" />
-
-  </td>
-
-  </tr>
-
-</table>
 
 ## Some of the Languages and Tools I use:
 
