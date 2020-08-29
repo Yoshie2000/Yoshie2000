@@ -60,8 +60,6 @@
 
 ---
 
-<br />
-
 ## About My GitHub
 
 <br />
@@ -129,8 +127,6 @@
   <br />
 
 </details>
-
-<br />
 
 ---
 
