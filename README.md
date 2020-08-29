@@ -1,12 +1,28 @@
 # Hey there, welcome on my GitHub page 👋
 
 ## A few things about me:
-- 👨‍🎓 I'm a student and hobby developer from Germany
-- 🏆 I founded my own startup with a few friends
-- 💻 I'm usually not very active here because I'm busy coding for my startup
-- 🎶 I love playing the drums
 
-[![Spotify](https://novatorem.yoshie2000.vercel.app/api/spotify)](https://open.spotify.com/user/an75m500xzpxqh37jf22311tq?si=9uV2z5lfSTax_qlRenX9aA)
+<table style="width: 100%;">
+
+  <tr>
+
+  <td style="max-width: 400px;">
+  <ul>
+  <li>👨‍🎓 I'm a student and hobby developer from Germany</li>
+  <li>🏆 I founded my own startup with a few friends</li>
+  <li>💻 I'm usually not very active here because I'm busy coding for my startup</li>
+  <li>🎶 I love playing the drums</li>
+  </td>
+
+  <td style="min-width: 480px; position: relative;">
+    
+  <img alt="My Spotify" src="https://novatorem.yoshie2000.vercel.app/api/spotify" style="position: absolute; top: -35px; left: 0;" />
+
+  </td>
+
+  </tr>
+
+</table>
 
 ## Some of the Languages and Tools I use:
 
@@ -57,8 +73,6 @@
 <br />
 <br />
 <br />
-
----
 
 ## About My GitHub
 
@@ -127,8 +141,6 @@
   <br />
 
 </details>
-
----
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
