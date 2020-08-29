@@ -131,4 +131,5 @@
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#25](https://github.com//jamesgeorge007/github-activity-readme/issues/25) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
