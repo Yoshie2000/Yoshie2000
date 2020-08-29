@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # Hey there, welcome on my GitHub page 👋
 
 ## A few things about me:
@@ -16,6 +18,7 @@
 <img align="left" alt="Unity" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 
 <br />
+<br />
 
 ### Web Development
 
@@ -26,7 +29,7 @@
 <img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img align="left" alt="Java" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
@@ -41,6 +44,7 @@
 <img align="left" alt="Electron.js" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
 
 <br />
+<br />
 
 ### Other Tools
 
@@ -54,31 +58,26 @@
 <br />
 <br />
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.yoshie2000.vercel.app/api?username=Yoshie2000&show_icons=true" />
+---
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true">
+<details>
+    <summary>:zap: GitHub Stats</summary>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+    <img align="left" alt="My Github Stats" src="https://github-readme-stats.yoshie2000.vercel.app/api?username=Yoshie2000&show_icons=true" />
+
+</details>
+
+<details>
+    <summary>:zap: Most Used Languages</summary>
+
+    <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true">
+
+</details>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 <br />
@@ -99,7 +98,13 @@
 <br />
 <br />
 <br />
+
+<img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
+
+<br />
+<br />
+<br />
 <br />
 <br />
 
-<img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
+[![Spotify](https://novatorem.yoshie2000.vercel.app/api/spotify)](https://open.spotify.com/user/an75m500xzpxqh37jf22311tq?si=9uV2z5lfSTax_qlRenX9aA)
