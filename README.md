@@ -6,6 +6,8 @@
 - 💻 I'm usually not very active here because I'm busy coding for my startup
 - 🎶 I love playing the drums
 
+[![Spotify](https://novatorem.yoshie2000.vercel.app/api/spotify)](https://open.spotify.com/user/an75m500xzpxqh37jf22311tq?si=9uV2z5lfSTax_qlRenX9aA)
+
 ## Some of the Languages and Tools I use:
 
 ### IDEs
@@ -60,6 +62,10 @@
 
 <br />
 
+## About My GitHub
+
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -94,6 +100,33 @@
   <br />
   <br />
   <br />
+  <br />
+
+</details>
+
+<details>
+
+  <summary>:zap: My Favourite Projects</summary>
+
+  <br />
+
+  <img align="left" alt="Battleship" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Battleship">
+
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
+
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 
 </details>
 
@@ -103,33 +136,3 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<img align="left" alt="Battleship" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Battleship">
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-[![Spotify](https://novatorem.yoshie2000.vercel.app/api/spotify)](https://open.spotify.com/user/an75m500xzpxqh37jf22311tq?si=9uV2z5lfSTax_qlRenX9aA)
