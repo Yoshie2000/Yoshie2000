@@ -82,18 +82,11 @@
   <br />
   <br />
   <br />
-  <br />
 
   <a href="https://github.com/Yoshie2000">
-  <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true">
+  <img align="left" alt="My Most Used Languages" src="https://github-readme-stats.yoshie2000.vercel.app/api/top-langs/?username=Yoshie2000&show_icons=true&layout=compact">
   </a>
 
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
   <br />
   <br />
   <br />
@@ -127,6 +120,7 @@
   <img align="left" alt="Pathfinding Visualizer" src="https://github-readme-stats.yoshie2000.vercel.app/api/pin/?username=Yoshie2000&repo=Pathfinding-Visualizer">
   </a>
 
+  <br />
   <br />
   <br />
   <br />
