@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com//jamesgeorge007/github-activity-readme/issues/25) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#611](https://github.com//tobspr/shapez.io/pull/611) in [tobspr/shapez.io](https://github.com//tobspr/shapez.io)
   <!--END_SECTION:activity-->
 
 </details>
