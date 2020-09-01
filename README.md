@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#611](https://github.com//tobspr/shapez.io/issues/611) in [tobspr/shapez.io](https://github.com//tobspr/shapez.io)
+1. 🗣 Commented on [#617](https://github.com//tobspr/shapez.io/issues/617) in [tobspr/shapez.io](https://github.com//tobspr/shapez.io)
   <!--END_SECTION:activity-->
 
 </details>
