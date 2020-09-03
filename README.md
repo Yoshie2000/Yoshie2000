@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#617](https://github.com//tobspr/shapez.io/issues/617) in [tobspr/shapez.io](https://github.com//tobspr/shapez.io)
+1. 💪 Opened PR [#1](https://github.com//JereIsThere/informatik_gsl/pull/1) in [JereIsThere/informatik_gsl](https://github.com//JereIsThere/informatik_gsl)
   <!--END_SECTION:activity-->
 
 </details>
