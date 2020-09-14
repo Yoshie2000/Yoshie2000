@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Yoshie2000/DK-Dashboard/pull/1) in [Yoshie2000/DK-Dashboard](https://github.com//Yoshie2000/DK-Dashboard)
+1. 💪 Opened PR [#2](https://github.com//JereIsThere/informatik_gsl/pull/2) in [JereIsThere/informatik_gsl](https://github.com//JereIsThere/informatik_gsl)
   <!--END_SECTION:activity-->
 
 </details>
