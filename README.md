@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//JereIsThere/informatik_gsl/pull/2) in [JereIsThere/informatik_gsl](https://github.com//JereIsThere/informatik_gsl)
+1. 💪 Opened PR [#2](https://github.com/JereIsThere/informatik_gsl/pull/2) in [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
   <!--END_SECTION:activity-->
 
 </details>
