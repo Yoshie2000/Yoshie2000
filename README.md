@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Yoshie2000/DK-Dashboard/pull/3) in [Yoshie2000/DK-Dashboard](https://github.com/Yoshie2000/DK-Dashboard)
+1. ❗️ Closed issue [#6](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/6) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
   <!--END_SECTION:activity-->
 
 </details>
