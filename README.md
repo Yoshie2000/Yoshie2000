@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/6) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
+1. 🗣 Commented on [#1](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/1) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
   <!--END_SECTION:activity-->
 
 </details>
