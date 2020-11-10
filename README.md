@@ -137,6 +137,7 @@
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
-  <!--END_SECTION:activity-->
-
-</details>
+2. 💪 Opened PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
+3. 🎉 Merged PR [#2](https://github.com/Yoshie2000/github-activity-readme/pull/2) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
+4. 💪 Opened PR [#2](https://github.com/Yoshie2000/github-activity-readme/pull/2) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
+5. 🎉 Merged PR [#1](https://github.com/Yoshie2000/github-activity-readme/pull/1) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
