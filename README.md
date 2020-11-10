@@ -136,7 +136,7 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/1) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
+1. 🎉 Merged PR [#1](https://github.com/Yoshie2000/github-activity-readme/pull/1) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
   <!--END_SECTION:activity-->
 
 </details>
