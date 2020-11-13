@@ -86,7 +86,7 @@
   <br />
 
 <!--START_SECTION:activity-->
-1. 🚀 Pu hed 2 commit NaN hie2000/github-activity-readme](http ://github.com/Yo hie2000/github-activity-readme)  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN  NaN
+1. 🚀 Pushed 28 commit to [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
 2. 🎉 Merged PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
 3. 💪 Opened PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
 4. 🚀 Pushed 2 commits to [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
