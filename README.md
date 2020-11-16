@@ -14,6 +14,18 @@
 
 <br />
 
+<summary>:zap: Latest Activity</summary>
+
+<br />
+
+<!--START_SECTION:activity-->
+1. 🚀 Pushed 5 commits to [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
+2. 🎉 Merged PR [#2](https://github.com/JereIsThere/informatik_gsl/pull/2) in [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
+3. 🚀 Pushed 38 commits to [Yoshie2000/informatik_gsl](https://github.com/Yoshie2000/informatik_gsl)
+4. 🎉 Merged PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
+5. 💪 Opened PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
+<!--END_SECTION:activity-->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -76,22 +88,6 @@
   <br />
   <br />
   <br />
-
-</details>
-
-<details>
-
-  <summary>:zap: Latest Activity</summary>
-
-  <br />
-
-<!--START_SECTION:activity-->
-1. 🚀 Pushed 5 commits to [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
-2. 🎉 Merged PR [#2](https://github.com/JereIsThere/informatik_gsl/pull/2) in [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
-3. 🚀 Pushed 38 commits to [Yoshie2000/informatik_gsl](https://github.com/Yoshie2000/informatik_gsl)
-4. 🎉 Merged PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
-5. 💪 Opened PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
-<!--END_SECTION:activity-->
 
 </details>
 
