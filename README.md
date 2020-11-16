@@ -14,9 +14,8 @@
 
 <br />
 
+<details open>
 <summary>:zap: Latest Activity</summary>
-
-<br />
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 5 commits to [JereIsThere/informatik_gsl](https://github.com/JereIsThere/informatik_gsl)
@@ -25,6 +24,8 @@
 4. 🎉 Merged PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
 5. 💪 Opened PR [#3](https://github.com/Yoshie2000/github-activity-readme/pull/3) in [Yoshie2000/github-activity-readme](https://github.com/Yoshie2000/github-activity-readme)
 <!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
