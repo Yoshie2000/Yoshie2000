@@ -27,6 +27,9 @@
 
 </details>
 
+<details open>
+<summary>:zap: WakaTime Stats</summary
+ 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
@@ -112,6 +115,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>
