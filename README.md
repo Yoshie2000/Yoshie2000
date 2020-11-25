@@ -10,12 +10,7 @@
 <img alt="My Spotify" src="https://novatorem.yoshie2000.vercel.app/api/spotify"/>
 </a>
 
-## About My GitHub
-
-<br />
-
-<details open>
-<summary>:zap: Latest Activity</summary>
+## My Latest Activity
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 16 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
@@ -25,11 +20,7 @@
 5. 🚀 Pushed 7 commits to [Yoshie2000/informatik_gsl](https://github.com/Yoshie2000/informatik_gsl)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details open>
-<summary>:zap: WakaTime Stats</summary
- 
+## My WakaTime Stats
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
