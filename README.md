@@ -27,7 +27,10 @@
 
 </details>
 
-<details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <br />
@@ -90,7 +93,7 @@
   <br />
   <br />
 
-</details>
+</details>-->
 
 <br />
 
