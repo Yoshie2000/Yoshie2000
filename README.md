@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 24 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-2. ❗️ Closed issue [#15](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/15) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
-3. 🚀 Pushed 1 commit to [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
-4. 🗣 Commented on [#13](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/13) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
-5. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+1. 🗣 Commented on [#1](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/1) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
+2. 🚀 Pushed 24 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+3. ❗️ Closed issue [#15](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/15) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
+4. 🚀 Pushed 1 commit to [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
+5. 🗣 Commented on [#13](https://github.com/Threatening-Code-Comments/RoutineTimer/issues/13) in [Threatening-Code-Comments/RoutineTimer](https://github.com/Threatening-Code-Comments/RoutineTimer)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
