@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
+1. 🚀 Pushed 2 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. 🗣 Commented on [#18](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/issues/18) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
 3. 🚀 Pushed 10 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
 4. 💪 Opened PR [#18](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/18) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
