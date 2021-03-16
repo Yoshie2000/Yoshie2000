@@ -157,7 +157,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 <img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Eclipse" width="34px" src="https://img.utdstc.com/icons/eclipse-windows.png:l">
-<img align="left" alt="Android Studio" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png">
+<img align="left" alt="Android Studio" width="34px" src="https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png">
 <img align="left" alt="Unity" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 
 <br />
