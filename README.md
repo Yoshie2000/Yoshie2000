@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/36) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
-2. 🚀 Pushed 13 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
-3. 💪 Opened PR [#34](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/34) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
-4. 🚀 Pushed 41 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
-5. 💪 Opened PR [#25](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/25) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
+1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 💪 Opened PR [#36](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/36) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
+3. 🚀 Pushed 13 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
+4. 💪 Opened PR [#34](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/34) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
+5. 🚀 Pushed 1 commit to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
