@@ -51,14 +51,13 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     39 mins             ████████████████████░░░░░   81.92% 
-Groovy                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
