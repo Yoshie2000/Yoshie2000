@@ -80,6 +80,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 </details>
 
