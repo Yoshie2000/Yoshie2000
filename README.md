@@ -13,8 +13,8 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 81 commits to [Yoshie2000/Nitrox](https://github.com/Yoshie2000/Nitrox)
-2. 💪 Opened PR [#36](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/36) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
+1. 💪 Opened PR [#1561](https://github.com/SubnauticaNitrox/Nitrox/pull/1561) in [SubnauticaNitrox/Nitrox](https://github.com/SubnauticaNitrox/Nitrox)
+2. 🚀 Pushed 81 commits to [Yoshie2000/Nitrox](https://github.com/Yoshie2000/Nitrox)
 3. 🚀 Pushed 10 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
 4. 💪 Opened PR [#34](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/34) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
 5. 🚀 Pushed 1 commit to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
