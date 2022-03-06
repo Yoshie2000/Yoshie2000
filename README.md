@@ -13,8 +13,8 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 91 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
-2. 💪 Opened PR [#1561](https://github.com/SubnauticaNitrox/Nitrox/pull/1561) in [SubnauticaNitrox/Nitrox](https://github.com/SubnauticaNitrox/Nitrox)
+1. 💪 Opened PR [#1](https://github.com/Shop-kins/TransitionRandomiser/pull/1) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+2. 🚀 Pushed 92 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
 3. 🚀 Pushed 1 commit to [Yoshie2000/Nitrox](https://github.com/Yoshie2000/Nitrox)
 4. 💪 Opened PR [#34](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/34) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
 5. 🚀 Pushed 1 commit to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
