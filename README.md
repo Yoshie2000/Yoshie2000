@@ -13,10 +13,10 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Shop-kins/TransitionRandomiser/issues/4) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
-2. 💪 Opened PR [#4](https://github.com/Shop-kins/TransitionRandomiser/pull/4) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
-3. 🚀 Pushed 8 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
-4. 💪 Opened PR [#3](https://github.com/Shop-kins/TransitionRandomiser/pull/3) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+1. 💪 Opened PR [#5](https://github.com/Shop-kins/TransitionRandomiser/pull/5) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+2. 🚀 Pushed 4 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
+3. 🗣 Commented on [#4](https://github.com/Shop-kins/TransitionRandomiser/issues/4) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+4. 💪 Opened PR [#4](https://github.com/Shop-kins/TransitionRandomiser/pull/4) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
 5. 🚀 Pushed 1 commit to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
 <!--END_SECTION:activity-->
 
