@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-2. 💪 Opened PR [#7](https://github.com/Shop-kins/TransitionRandomiser/pull/7) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
-3. 🚀 Pushed 18 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-4. 💪 Opened PR [#6](https://github.com/Shop-kins/TransitionRandomiser/pull/6) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
-5. 🚀 Pushed 2 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
+1. 💪 Opened PR [#8](https://github.com/Shop-kins/TransitionRandomiser/pull/8) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+2. 🚀 Pushed 6 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
+3. 💪 Opened PR [#7](https://github.com/Shop-kins/TransitionRandomiser/pull/7) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+4. 🚀 Pushed 18 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+5. 💪 Opened PR [#6](https://github.com/Shop-kins/TransitionRandomiser/pull/6) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
