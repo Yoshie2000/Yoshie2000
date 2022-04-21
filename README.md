@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Shop-kins/TransitionRandomiser/pull/9) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
-2. 🚀 Pushed 24 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
-3. 💪 Opened PR [#47](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/47) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
-4. 🚀 Pushed 74 commits to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
-5. 💪 Opened PR [#8](https://github.com/Shop-kins/TransitionRandomiser/pull/8) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 💪 Opened PR [#9](https://github.com/Shop-kins/TransitionRandomiser/pull/9) in [Shop-kins/TransitionRandomiser](https://github.com/Shop-kins/TransitionRandomiser)
+3. 🚀 Pushed 24 commits to [Yoshie2000/TransitionRandomiser](https://github.com/Yoshie2000/TransitionRandomiser)
+4. 💪 Opened PR [#47](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod/pull/47) in [Shop-kins/SubnauticaTwitchInteractionMod](https://github.com/Shop-kins/SubnauticaTwitchInteractionMod)
+5. 🚀 Pushed 1 commit to [Yoshie2000/SubnauticaTwitchInteractionMod](https://github.com/Yoshie2000/SubnauticaTwitchInteractionMod)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
