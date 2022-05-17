@@ -53,13 +53,14 @@ Sunday       33 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 24 mins        ████████████████████████░   97.34% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 26 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 26 mins        █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +77,7 @@ GAP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 01:28:35 UTC
+ Last Updated on 17/05/2022 01:40:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
