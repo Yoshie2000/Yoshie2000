@@ -22,7 +22,7 @@
 
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -79,7 +79,7 @@ GAP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2022 02:36:26 UTC
+ Last Updated on 01/10/2022 02:29:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
