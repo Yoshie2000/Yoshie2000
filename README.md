@@ -22,7 +22,7 @@
 
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2030%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,13 +53,16 @@ Sunday       32 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 5 mins         ███████████████████░░░░░░   79.27% 
+textmate                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 23 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +79,7 @@ GAP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 01:21:35 UTC
+ Last Updated on 07/01/2023 01:18:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
