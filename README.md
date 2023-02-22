@@ -68,15 +68,15 @@ No Activity Tracked This Week
 ```text
 JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-GAP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 01:25:33 UTC
+ Last Updated on 22/02/2023 01:21:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
