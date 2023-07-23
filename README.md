@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 43 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
-2. 💪 Opened PR [#1](https://github.com/Rubiks37/rankingbot/pull/1) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
-3. 🚀 Pushed 90 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
-4. 💪 Opened PR [#49533](https://github.com/vercel/next.js/pull/49533) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+1. 🚀 Pushed 3 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
+2. 🗣 Commented on [#2](https://github.com/Rubiks37/rankingbot/issues/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
+3. 💪 Opened PR [#2](https://github.com/Rubiks37/rankingbot/pull/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
+4. 🚀 Pushed 44 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
+5. 💪 Opened PR [#1](https://github.com/Rubiks37/rankingbot/pull/1) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
