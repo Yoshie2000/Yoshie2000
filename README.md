@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Rubiks37/rankingbot/pull/3) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
-2. 🚀 Pushed 16 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
-3. 🗣 Commented on [#2](https://github.com/Rubiks37/rankingbot/issues/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
-4. 💪 Opened PR [#2](https://github.com/Rubiks37/rankingbot/pull/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
-5. 🚀 Pushed 1 commit to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
+1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 💪 Opened PR [#3](https://github.com/Rubiks37/rankingbot/pull/3) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
+3. 🚀 Pushed 16 commits to [Yoshie2000/rankingbot](https://github.com/Yoshie2000/rankingbot)
+4. 🗣 Commented on [#2](https://github.com/Rubiks37/rankingbot/issues/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
+5. 💪 Opened PR [#2](https://github.com/Rubiks37/rankingbot/pull/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
