@@ -51,16 +51,13 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████░░░░░░░░   67.69 % 
-Kotlin                   2 mins              ████████░░░░░░░░░░░░░░░░░   32.15 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 4 mins              █████████████████░░░░░░░░   67.85 % 
-IntelliJ                 2 mins              ████████░░░░░░░░░░░░░░░░░   32.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +73,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2023 01:08:36 UTC
+ Last Updated on 16/09/2023 01:07:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
