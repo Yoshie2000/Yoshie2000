@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 10 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-2. 🎉 Merged PR [#14](https://github.com/Yoshie2000/speedrun-retime-extension/pull/14) in [Yoshie2000/speedrun-retime-extension](https://github.com/Yoshie2000/speedrun-retime-extension)
-3. 🚀 Pushed 94 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-4. 🗣 Commented on [#2](https://github.com/Rubiks37/rankingbot/issues/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
-5. 💪 Opened PR [#2](https://github.com/Rubiks37/rankingbot/pull/2) in [Rubiks37/rankingbot](https://github.com/Rubiks37/rankingbot)
+1. 🎉 Merged PR [#1](https://github.com/Yoshie2000/chess-engine/pull/1) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+2. 🚀 Pushed 4 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+3. 💪 Opened PR [#1](https://github.com/Yoshie2000/chess-engine/pull/1) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+4. 🚀 Pushed 11 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+5. 🎉 Merged PR [#14](https://github.com/Yoshie2000/speedrun-retime-extension/pull/14) in [Yoshie2000/speedrun-retime-extension](https://github.com/Yoshie2000/speedrun-retime-extension)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
