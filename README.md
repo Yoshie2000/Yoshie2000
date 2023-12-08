@@ -22,6 +22,44 @@
 
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2032%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌆 Daytime                350 commits         ████████████░░░░░░░░░░░░░   47.62 % 
+🌃 Evening                300 commits         ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌙 Night                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Tuesday                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Wednesday                275 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
+Thursday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Friday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Saturday                 204 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Sunday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -35,7 +73,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 01:15:08 UTC
+ Last Updated on 08/12/2023 01:15:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
