@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 10 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
-2. 💪 Opened PR [#20](https://github.com/Yoshie2000/chess-engine/pull/20) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
-3. 🚀 Pushed 3 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
-4. 🎉 Merged PR [#19](https://github.com/Yoshie2000/chess-engine/pull/19) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
-5. 💪 Opened PR [#19](https://github.com/Yoshie2000/chess-engine/pull/19) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+1. 🚀 Pushed 2 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+2. 🎉 Merged PR [#20](https://github.com/Yoshie2000/chess-engine/pull/20) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+3. 🚀 Pushed 10 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+4. 💪 Opened PR [#20](https://github.com/Yoshie2000/chess-engine/pull/20) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+5. 🚀 Pushed 1 commit to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
