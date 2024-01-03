@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
+1. 🚀 Pushed 3 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
 2. 🎉 Merged PR [#22](https://github.com/Yoshie2000/chess-engine/pull/22) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
 3. 🚀 Pushed 6 commits to [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
 4. 🎉 Merged PR [#23](https://github.com/Yoshie2000/chess-engine/pull/23) in [Yoshie2000/chess-engine](https://github.com/Yoshie2000/chess-engine)
