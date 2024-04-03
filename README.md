@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 11 commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed 12 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. 🗣 Commented on [#100](https://github.com/Yoshie2000/PlentyChess/issues/100) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 3. ❗️ Closed issue [#100](https://github.com/Yoshie2000/PlentyChess/issues/100) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 4. 🚀 Pushed 2 commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
