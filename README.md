@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+1. 🚀 Pushed 3 commits to [Yoshie2000/integral](https://github.com/Yoshie2000/integral)
 2. 💪 Opened PR [#3](https://github.com/aronpetko/integral/pull/3) in [aronpetko/integral](https://github.com/aronpetko/integral)
 3. 💪 Opened PR [#58](https://github.com/ArjunBasandrai/elixir-chess-engine/pull/58) in [ArjunBasandrai/elixir-chess-engine](https://github.com/ArjunBasandrai/elixir-chess-engine)
 4. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
