@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/aronpetko/integral/pull/3) in [aronpetko/integral](https://github.com/aronpetko/integral)
-2. 💪 Opened PR [#58](https://github.com/ArjunBasandrai/elixir-chess-engine/pull/58) in [ArjunBasandrai/elixir-chess-engine](https://github.com/ArjunBasandrai/elixir-chess-engine)
-3. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-4. 🎉 Merged PR [#187](https://github.com/Yoshie2000/PlentyChess/pull/187) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-5. 💪 Opened PR [#187](https://github.com/Yoshie2000/PlentyChess/pull/187) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 💪 Opened PR [#3](https://github.com/aronpetko/integral/pull/3) in [aronpetko/integral](https://github.com/aronpetko/integral)
+3. 💪 Opened PR [#58](https://github.com/ArjunBasandrai/elixir-chess-engine/pull/58) in [ArjunBasandrai/elixir-chess-engine](https://github.com/ArjunBasandrai/elixir-chess-engine)
+4. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+5. 🎉 Merged PR [#187](https://github.com/Yoshie2000/PlentyChess/pull/187) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
