@@ -13,9 +13,9 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#209](https://github.com/Yoshie2000/PlentyChess/pull/209) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. ❗️ Closed issue [#264](https://github.com/Yoshie2000/PlentyChess/issues/264) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. ❌ Closed PR [#209](https://github.com/Yoshie2000/PlentyChess/pull/209) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. ❗️ Closed issue [#264](https://github.com/Yoshie2000/PlentyChess/issues/264) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 4. 🎉 Merged PR [#279](https://github.com/Yoshie2000/PlentyChess/pull/279) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 5. 💪 Opened PR [#279](https://github.com/Yoshie2000/PlentyChess/pull/279) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
