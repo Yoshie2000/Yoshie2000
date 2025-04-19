@@ -13,9 +13,9 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#341](https://github.com/Yoshie2000/PlentyChess/issues/341) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. ❗️ Closed issue [#341](https://github.com/Yoshie2000/PlentyChess/issues/341) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. 🚀 Pushed 2 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+1. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 🗣 Commented on [#341](https://github.com/Yoshie2000/PlentyChess/issues/341) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. ❗️ Closed NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 4. 🎉 Merged PR [#342](https://github.com/Yoshie2000/PlentyChess/pull/342) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 5. 💪 Opened PR [#342](https://github.com/Yoshie2000/PlentyChess/pull/342) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
