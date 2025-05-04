@@ -22,6 +22,8 @@
 
 ## My WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2032%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -71,7 +73,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 02:18:54 UTC
+ Last Updated on 04/05/2025 02:36:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
