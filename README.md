@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 21 commits to [Yoshie2000/bullet](https://github.com/Yoshie2000/bullet)
+1. 🚀 Pushed 22 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. 🎉 Merged PR [#354](https://github.com/Yoshie2000/PlentyChess/pull/354) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 3. 💪 Opened PR [#354](https://github.com/Yoshie2000/PlentyChess/pull/354) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 4. 🚀 Pushed 73 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
