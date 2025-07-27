@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 13 commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. 🎉 Merged PR [#378](https://github.com/Yoshie2000/PlentyChess/pull/378) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. 💪 Opened PR [#378](https://github.com/Yoshie2000/PlentyChess/pull/378) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-4. 🚀 Pushed 57 commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-5. 🎉 Merged PR [#376](https://github.com/Yoshie2000/PlentyChess/pull/376) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🗣 Commented on [#377](https://github.com/Yoshie2000/PlentyChess/issues/377) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. 🚀 Pushed 13 commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. 🎉 Merged PR [#378](https://github.com/Yoshie2000/PlentyChess/pull/378) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+4. 💪 Opened PR [#378](https://github.com/Yoshie2000/PlentyChess/pull/378) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+5. 🚀 Pushed 1 commit to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
