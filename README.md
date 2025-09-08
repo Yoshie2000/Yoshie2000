@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#390](https://github.com/Yoshie2000/PlentyChess/pull/390) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. 🚀 Pushed 2 commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. 💪 Opened PR [#177](https://github.com/official-clockwork/Clockwork/pull/177) in [official-clockwork/Clockwork](https://github.com/official-clockwork/Clockwork)
-4. 🚀 Pushed 5 commits to [Yoshie2000/Clockwork](https://github.com/Yoshie2000/Clockwork)
-5. 🎉 Merged PR [#389](https://github.com/Yoshie2000/PlentyChess/pull/389) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed 1 commit to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. 🎉 Merged PR [#390](https://github.com/Yoshie2000/PlentyChess/pull/390) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. 💪 Opened NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+4. 💪 Opened PR [#177](https://github.com/official-clockwork/Clockwork/pull/177) in [official-clockwork/Clockwork](https://github.com/official-clockwork/Clockwork)
+5. 🚀 Pushed 4 commits to [Yoshie2000/Clockwork](https://github.com/Yoshie2000/Clockwork)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
