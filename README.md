@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed undefined commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 2. 💪 Opened PR [#6](https://github.com/ChessCom/ccc-configs/pull/6) in [ChessCom/ccc-configs](https://github.com/ChessCom/ccc-configs)
 3. 🚀 Pushed NaN commits to [Yoshie2000/ccc-configs](https://github.com/Yoshie2000/ccc-configs)
-4. 💪 Opened NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-5. 💪 Opened PR [#287](https://github.com/official-clockwork/Clockwork/pull/287) in [official-clockwork/Clockwork](https://github.com/official-clockwork/Clockwork)
+4. 💪 Opened PR [#400](https://github.com/Yoshie2000/PlentyChess/pull/400) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+5. 🚀 Pushed undefined commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
