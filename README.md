@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. 💪 Opened PR [#407](https://github.com/Yoshie2000/PlentyChess/pull/407) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-4. 💪 Opened PR [#406](https://github.com/Yoshie2000/PlentyChess/pull/406) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-5. 🚀 Pushed undefined commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. ❗️ Closed issue [#408](https://github.com/Yoshie2000/PlentyChess/issues/408) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. 🗣 Commented on [#408](https://github.com/Yoshie2000/PlentyChess/issues/408) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. 🗣 Commented on [#404](https://github.com/Yoshie2000/PlentyChess/issues/404) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+4. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+5. 💪 Opened PR [#407](https://github.com/Yoshie2000/PlentyChess/pull/407) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
