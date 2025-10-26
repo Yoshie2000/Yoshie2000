@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#846](https://github.com/cutechess/cutechess/pull/846) in [cutechess/cutechess](https://github.com/cutechess/cutechess)
-2. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-3. 💪 Opened PR [#409](https://github.com/Yoshie2000/PlentyChess/pull/409) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-4. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-5. ❗️ Closed issue [#404](https://github.com/Yoshie2000/PlentyChess/issues/404) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 💪 Opened PR [#847](https://github.com/cutechess/cutechess/pull/847) in [cutechess/cutechess](https://github.com/cutechess/cutechess)
+2. 🚀 Pushed NaN commits to [Yoshie2000/cutechess](https://github.com/Yoshie2000/cutechess)
+3. 💪 Opened PR [#846](https://github.com/cutechess/cutechess/pull/846) in [cutechess/cutechess](https://github.com/cutechess/cutechess)
+4. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+5. 💪 Opened PR [#409](https://github.com/Yoshie2000/PlentyChess/pull/409) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
