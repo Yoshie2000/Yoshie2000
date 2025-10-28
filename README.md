@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed NaN commits to [Yoshie2000/bullet](https://github.com/Yoshie2000/bullet)
+1. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. 💪 Opened PR [#411](https://github.com/Yoshie2000/PlentyChess/pull/411) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 3. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 4. 💪 Opened PR [#410](https://github.com/Yoshie2000/PlentyChess/pull/410) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
