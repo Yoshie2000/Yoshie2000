@@ -14,9 +14,9 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. 💪 Opened PR [#414](https://github.com/Yoshie2000/PlentyChess/pull/414) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. 💪 Opened PR [#415](https://github.com/Yoshie2000/PlentyChess/pull/415) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 3. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-4. 💪 Opened PR [#413](https://github.com/Yoshie2000/PlentyChess/pull/413) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+4. 💪 Opened PR [#414](https://github.com/Yoshie2000/PlentyChess/pull/414) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 5. 🚀 Pushed undefined commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
 <!--END_SECTION:activity-->
 
