@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
-2. ❌ Merged PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
-3. 🚀 Pushed NaN commits to [Yoshie2000/open-rank](https://github.com/Yoshie2000/open-rank)
-4. 💪 Opened PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
-5. 🚀 Pushed undefined commits to [Yoshie2000/open-rank](https://github.com/Yoshie2000/open-rank)
+1. 💪 Opened PR [#450](https://github.com/Yoshie2000/PlentyChess/pull/450) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+2. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. ❌ Merged PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
+4. 🚀 Pushed NaN commits to [Yoshie2000/open-rank](https://github.com/Yoshie2000/open-rank)
+5. 💪 Opened PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
