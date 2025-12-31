@@ -14,10 +14,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed undefined commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-2. 💪 Opened NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
-3. ❌ Merged PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
-4. 🚀 Pushed NaN commits to [Yoshie2000/open-rank](https://github.com/Yoshie2000/open-rank)
-5. 💪 Opened PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
+2. ❌ Merged PR [#451](https://github.com/Yoshie2000/PlentyChess/pull/451) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+3. 💪 Opened NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+4. 💪 Opened NaN commits in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+5. ❌ Merged PR [#2](https://github.com/AndyGrant/open-rank/pull/2) in [AndyGrant/open-rank](https://github.com/AndyGrant/open-rank)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
