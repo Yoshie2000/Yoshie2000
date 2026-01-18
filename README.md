@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. 🗣 Commented on [#847](https://github.com/cutechess/cutechess/issues/847) in [cutechess/cutechess](https://github.com/cutechess/cutechess)
 3. ❌ Closed PR [#847](https://github.com/cutechess/cutechess/pull/847) in [cutechess/cutechess](https://github.com/cutechess/cutechess)
 4. 🚀 Pushed NaN commits to [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
