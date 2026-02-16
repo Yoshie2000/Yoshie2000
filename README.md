@@ -13,7 +13,7 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed NaN commits to [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
+1. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
 2. ❌ Merged PR [#4](https://github.com/Yoshie2000/ChessTournamentViewer/pull/4) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
 3. 💪 Opened PR [#4](https://github.com/Yoshie2000/ChessTournamentViewer/pull/4) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
 4. 🚀 Pushed NaN commits to [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
