@@ -13,11 +13,11 @@
 ## My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed undefined commits to [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
-2. 🗣 Commented NaN commits in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
-3. ❌ Merged PR [#4](https://github.com/Yoshie2000/ChessTournamentViewer/pull/4) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
-4. 💪 Opened NaN commits in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
-5. ❌ Merged PR [#464](https://github.com/Yoshie2000/PlentyChess/pull/464) in [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess)
+1. 🚀 Pushed NaN commits to [Yoshie2000/Yoshie2000](https://github.com/Yoshie2000/Yoshie2000)
+2. 🗣 Commented on [#5](https://github.com/Yoshie2000/ChessTournamentViewer/issues/5) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
+3. 🚀 Pushed NaN commits to [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
+4. ❌ Merged PR [#4](https://github.com/Yoshie2000/ChessTournamentViewer/pull/4) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
+5. 💪 Opened PR [#4](https://github.com/Yoshie2000/ChessTournamentViewer/pull/4) in [Yoshie2000/ChessTournamentViewer](https://github.com/Yoshie2000/ChessTournamentViewer)
 <!--END_SECTION:activity-->
 
 ## My WakaTime Stats
